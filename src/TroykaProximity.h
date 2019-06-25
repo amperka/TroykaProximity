@@ -16,5 +16,4 @@
 typedef Adafruit_VL6180X TroykaProximity;
 typedef Adafruit_VL6180X VL6180X;
 
-
 #endif // __TROYKAPROXIMITY_H__
