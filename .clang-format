@@ -1,4 +1,0 @@
-Language: Cpp
-BasedOnStyle:  WebKit
-BreakBeforeBraces: Attach
-NamespaceIndentation: None
