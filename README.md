@@ -1,4 +1,28 @@
-# Adafruit VL6180X Library [![Build Status](https://travis-ci.org/adafruit/Adafruit_VL6180X.svg?branch=master)](https://travis-ci.org/adafruit/Adafruit_VL6180X)
+TroykaProximity
+===============
+
+Библиотека Arduino для [Proximity and Ambient Light Sensor (Troyka-модуль)](https://amperka.ru/product/troyka-proximity).
+Использует Adafruit VL6180X Library.
+
+Установка библиотеки
+====================
+
+В Arduino IDE выберите пункт меню «Скетч» → «Подключить библиотеку» →
+«Добавить .ZIP библиотеку…». В появившемся окне выберите скачаный архив с
+библиотекой. Установка завершена.
+
+This Arduino library relates to [Proximity and Ambient Light Sensor (Troyka-module)](https://amperka.ru/product/troyka-proximity).
+Uses Adafruit VL6180X Library.
+
+Installation
+====================
+
+Open Arduino IDE. Choose "Scketch" → "Iport library" → "Add library…".
+In appeared window choose downloaded zip.
+
+
+
+Adafruit VL6180X Library [![Build Status](https://travis-ci.org/adafruit/Adafruit_VL6180X.svg?branch=master)](https://travis-ci.org/adafruit/Adafruit_VL6180X)
 
 <img src="https://cdn-shop.adafruit.com/970x728/3316-00.jpg" height="300"/>
 
