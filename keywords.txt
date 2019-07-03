@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-TroykaProximity			KEYWORD1
+TroykaProximity		KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
@@ -15,7 +15,7 @@ TroykaProximity			KEYWORD1
 begin 			KEYWORD2
 readRange		KEYWORD2
 readLux			KEYWORD2
-readRangeStatus	KEYWORD2
+readRangeStatus		KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
