@@ -8,7 +8,6 @@
  * License: GPLv3, all text here must be included in any redistribution.
  */
 
-
 #ifndef __TROYKAPROXIMITY_H__
 #define __TROYKAPROXIMITY_H__
 
